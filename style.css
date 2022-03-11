@@ -91,7 +91,7 @@ background-color: #21B573;
  .box:hover{
     background-color: white;
    
-    width: 320px !important;
+    width: 290px !important;
     transition: ease-in-out;
  }
  .headline{
