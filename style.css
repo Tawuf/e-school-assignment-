@@ -5,7 +5,7 @@
    height: 576px;
 }
 .logo{
-   height: 59px;
+height: 59px;
 width: 198.07142639160156px;
 
 border-radius: 0px;
@@ -91,7 +91,8 @@ background-color: #21B573;
  .box:hover{
     background-color: white;
    
-    width: 370px !important;
+    width: 320px !important;
+    transition: ease-in-out;
  }
  .headline{
     margin-top: 25px;
